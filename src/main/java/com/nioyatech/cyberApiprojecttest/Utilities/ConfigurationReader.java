@@ -1,4 +1,4 @@
-package com.nioyatech.mlhubprojecttest.Utilities;
+package com.nioyatech.cyberApiprojecttest.Utilities;
 
 import java.io.FileInputStream;
 import java.util.Properties;

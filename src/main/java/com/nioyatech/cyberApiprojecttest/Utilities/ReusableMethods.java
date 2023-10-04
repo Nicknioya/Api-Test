@@ -1,7 +1,6 @@
-package com.nioyatech.mlhubprojecttest.Utilities;
+package com.nioyatech.cyberApiprojecttest.Utilities;
 
 import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.WebDriverException;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
@@ -10,8 +9,6 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.time.Duration;
 import java.util.List;
 import java.util.Random;
-
-import static com.nioyatech.mlhubprojecttest.Utilities.BrowserUtils.waitFor;
 
 public class ReusableMethods {
     public static void scrollIntoViewJS(WebElement element) {

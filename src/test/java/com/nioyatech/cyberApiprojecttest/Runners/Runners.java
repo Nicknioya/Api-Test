@@ -1,4 +1,4 @@
-package com.nioyatech.mlhubprojecttest.Runners;
+package com.nioyatech.cyberApiprojecttest.Runners;
 
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
